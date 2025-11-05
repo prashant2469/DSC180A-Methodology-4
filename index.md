@@ -23,6 +23,3 @@ I would focus more on reproducibility and experimentation. In Quarter 1, our exp
 
 I’d like to try Bayesian optimization for tuning hyperparameters and possibly add some visualization of optimizer trajectories to better understand how they move through the loss landscape. It would also be interesting to study theoretical connections between optimizer behavior and generalization performance.
 
----
-
-This site was created for DSC 180A Methodology Assignment 4 using GitHub Pages and Jekyll.
